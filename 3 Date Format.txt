@@ -1,9 +1,6 @@
 Date Format
 
 I'm American, so the dates on this website would be read as month/day/year.
-
 So 1/3/2025 would read as January 3rd, 2025 here.
-
 I hope I cleared up any confusion.
-
 I have no idea why I wrote this...
