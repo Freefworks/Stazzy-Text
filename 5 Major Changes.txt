@@ -1,12 +1,13 @@
 Major Changes
 
-1. I'm Switching from Parallel Launcher to Retroarch as my main software for N64 emulation.
+1. I'm switching from Parallel Launcher to Retroarch as my main software for N64 emulation.
 
 2. Videos will now have ads to help the owners of Rumble pay for server costs.
 
 3. Everything I've uploaded will be redone with a crt filter in 4:3 ratio.
 
-4. Videos will no longer be uploaded in bulk. I'm completing one project at a time.
+4. Videos will no longer be uploaded in bulk.
+I'm completing one project at a time.
 
 Thanks for reading.
 
