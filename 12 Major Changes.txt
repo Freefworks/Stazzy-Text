@@ -1,0 +1,14 @@
+Major Changes
+
+1. The date format has been updated to year-month-day.
+2. Removed Patreon and Ko-Fi buttons.
+3. Removed toggle 18+ button.
+4. Random functionality for drawings and digital art has been updated to include previously excluded drawings.
+5. Lists are now properly aligned.
+6. Date text is now smaller.
+7. Mature content is no longer hidden.
+8. Stazzy Station is now officially an adult website.
+9. Any and all laws that attempt to govern Stazzy Station will be ignored and disregarded.
+
+I'm free.
+
