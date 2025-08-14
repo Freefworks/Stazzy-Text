@@ -1,0 +1,11 @@
+I'm Sticking With Rumble
+
+Here are the reasons why:
+1. I already have a system that works with Rumble.
+2. I can't properly embed Peertube videos on Stazzy Station.
+3. My family can watch my videos on the TV with Rumble.
+4. I don't want to maintain a web server.
+5. I don't have the storage space for my own Peertube instance.
+
+Thank you for your time and understanding.
+If plans change in the future, I'll let you know.
