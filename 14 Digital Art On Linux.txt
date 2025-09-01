@@ -1,0 +1,17 @@
+Digital Art On Linux
+
+For anyone still struggling with curved lines, use the spline tool in Inkscape.
+(Create Bspline path).
+I now use Inkscape for my line art and FireAlpaca for my coloring, shading and highlighting.
+Honestly, Gimp and Krita suck donkey balls.
+I regret recommending them.
+Please don't use them unless you want to have a bad time.
+On the bright side, I can now create line art blazing fast and I can color, shade and highlight at the same speed that I used to.
+For anyone used to PaintToolSAI, I wholly recommend FireAlpaca.
+It's the closest thing you're going to get.
+If you ABSOLUTELY HAVE TO use PaintToolSAI, you can always use WINE to emulate it.
+I'm sorry it took so long for me to fully get the art situated, but we're finally here.
+I hope you guys enjoy Moon Man.
+He was created solely on Linux without using WINE.
+All parts and functions of Stazzy Station are now fully operational.
+Hooray!
