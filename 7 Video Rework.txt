@@ -1,0 +1,9 @@
+Video Rework
+
+Stazzy Station will now host its own webms.
+All videos are now exclusively in 4:3 ratio.
+Rumble is no longer a trusted platform to host videos on.
+Longer videos are unlikely in the future.
+Stazzy Station will remain ad-free forever.
+The onus should always be on me to fix things and make it right.
+Not the user.
