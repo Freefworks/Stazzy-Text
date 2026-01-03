@@ -44,4 +44,4 @@ v1.0 (The King Of Fighters GO Opal Edition)
 8. Every new feature from Ikemen GO v1.0.
 
 Sardonyx Edition release date: ASAP! SOON! BEFORE FEBRUARY!
-Opal Edition release date: Sometime after Ikemen v1.0 stable releases.
+Opal Edition release date: Sometime after Ikemen GO v1.0 stable releases.
