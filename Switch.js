@@ -1,0 +1,1 @@
+var x = 1; function switchImg() {if (x == 1) {document.getElementById("imgToSwitch").src = "30 Ground Doodle TP.png"; x++;} else if (x == 2) {document.getElementById("imgToSwitch").src = "31 He Is Wanted In 46 States TP.png"; x++;} else if (x == 3) {document.getElementById("imgToSwitch").src = "5 Risky Reading TP.png"; x = 1;}}

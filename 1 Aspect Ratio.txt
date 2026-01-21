@@ -1,0 +1,6 @@
+Aspect Ratio
+
+When using OBS Studio, always use 'Fit To Screen' instead of 'Stretch To Screen' to preserve the original aspect ratio of your source.
+If it's recorded in 4:3, keep it in 4:3.
+If it's recorded in 16:9, keep it in 16:9.
+You don't have to keep the black bars, but I'm keeping them since it reminds me of my childhood.

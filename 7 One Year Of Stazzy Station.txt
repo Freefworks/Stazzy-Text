@@ -1,0 +1,47 @@
+One Year Of Stazzy Station
+
+Happy J3 everybody!
+
+I'm sorry I wasn't around to wish you a merry Christmas or a happy New Year, but it's for a good reason.
+I started working on a major project and it took up more of my time than I would like to admit.
+December flew by, and before I knew it, the year was over.
+My main focus for right now will be finishing this project.
+Here's the plan.
+This project will be released in two versions.
+Sardonyx Edition and Opal Edition.
+It will be called "The King Of Fighters GO."
+As you can guess, it uses the Ikemen GO engine and brings you the best KOF characters, stages, and music.
+With the release of Ikemen GO 1.0 being in the near future, I want to make two versions to accommodate everyone as much as possible.
+The King Of Fighters GO Sardonyx Edition will be created for everyone who wants to play the game as soon as possible.
+The King Of Fighters GO Opal Edition will be created for everyone who wants all the new features that the Ikemen GO engine has to offer.
+Both versions will feature the same characters, stages, and music.
+I will also use POTS's engine add ons to enrich the experience as much as possible.
+Before I go on, I must warn you that this project is Linux exclusive and that I have no intention of porting it over to Windows or Mac.
+If you wish to port it over yourself, I give you my full permission to do so.
+Here's what you can expect from both versions.
+
+v0.99.0 (The King Of Fighters GO Sardonyx Edition)
+--------------------------------------------------
+1. Characters from Ikaruga, Ahuron, Thedge, Buckus, 1%, and Black. (Character AI will be set to maximum wherever possible.)
+2. Stages from Noside's KOF collection and Space Lift from EXShadow.
+3. Arcade music game rips from KHInsider.
+4. 7 blank team slots for you to customize. (Blank slots are filled by Edit from Lifeend.)
+5. Mugen1 screen pack remix by POTS.
+6. Mugen1 life bar remix by POTS.
+7. Dramatic zoom by POTS.
+8. Attack data display by POTS.
+9. Active tag by POTS.
+
+v1.0 (The King Of Fighters GO Opal Edition)
+-------------------------------------------
+1. Everything from Sardonyx Edition.
+2. Universal Clashing System by POTS.
+3. Auto Stage Camera by POTS.
+4. Shadow Assist System by POTS.
+5. Rainbow Edition by POTS.
+6. Universal Dash Cancel by POTS.
+7. Jim Ross Commentator by POTS.
+8. Every new feature from Ikemen GO v1.0.
+
+Sardonyx Edition release date: ASAP! SOON! BEFORE FEBRUARY!
+Opal Edition release date: Sometime after Ikemen GO v1.0 stable releases.

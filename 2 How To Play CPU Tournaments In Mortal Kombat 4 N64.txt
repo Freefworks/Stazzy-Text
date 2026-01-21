@@ -1,0 +1,19 @@
+How To Play CPU Tournaments In Mortal Kombat 4 N64
+
+It's quite simple.
+All you have to do is have only one controller plugged in as Player 2.
+(Controller port 2. The second one on the left.)
+For physical reference:
+(0 * 0 0)
+0 = unplugged.
+* = plugged in.
+Then you just press A on both player 1 and player 2 in the tournament menu and you're set!
+All pressing A does is toggling the current character from Human to CPU and vice versa.
+You can adjust the difficulty of each CPU by pressing down C.
+The maximum CPU difficulty is Master II.
+You can change each character with D-pad left and D-pad right.
+You can move to different characters by pressing D-pad up and D-pad down.
+I hope that this tutorial helps you in the future and be sure to have fun with your tournaments!
+
+Don't forget, you can increase or decrease the number of fighters if you press D-pad right and D-pad left on the number of fighters option in the tournament setup menu. 
+You can only have 4 or 8 fighters total.
