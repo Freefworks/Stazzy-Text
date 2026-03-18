@@ -1,6 +1,6 @@
 Opal Edition Is Dead
 
-The King Of Fighters GO Opal Edition has been cancelled.
+The King Of Fighters GO Opal Edition has been canceled.
 A new project named The King Of Fighters GO Z will replace it.
 Development will now move forward using the nightly build of Ikemen GO instead of the 1.0 stable release.
 In use: (nightly-2026.3.16)
